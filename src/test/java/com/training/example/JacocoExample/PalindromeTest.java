@@ -9,6 +9,6 @@ public class PalindromeTest {
 	@Test
 	public void whenEmptyString_thenAccept() {
 	    Palindrome palindromeTester = new Palindrome();
-	    assertTrue(palindromeTester.isPalindrome("teacher"));
+	    assertTrue(palindromeTester.isPalindrome("madam"));
 	}
 }
